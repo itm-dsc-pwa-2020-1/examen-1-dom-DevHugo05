@@ -1,0 +1,49 @@
+*{
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+}
+
+.container div {
+    padding: em;
+}
+
+/*
+.container div:hover {
+    border: 1px solid #37b627;
+}
+*/
+
+#logo{
+    width: 150px;
+    padding: 20px;
+}
+
+#tienda{
+    width: 100%;
+}
+
+.icono{
+    width: 40px;
+}
+
+h1{
+    font-size: 1.5em;
+}
+
+.enlace{
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+}
+
+P, h2, a{
+    padding: 20px   ;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    background: black;
+    color: white;
+}

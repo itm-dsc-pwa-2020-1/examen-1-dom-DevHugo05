@@ -1,0 +1,40 @@
+/*
+Estilos para tema claro
+*/
+
+.header-claro{
+    background: rgb(231, 76, 76);
+    color: #000;
+}
+
+.contenido-claro{
+    background: #fff;
+    color: #000;
+}
+
+.footer-claro{
+    background: rgb(231, 76, 76);
+    color: #000;
+}
+
+
+
+
+/*
+Estilos para tema obscuro
+*/
+.header-dark{
+    background: #232931;
+    color: #fff;
+}
+
+.contenido-dark{
+    background: #121213;
+    color: #fff;
+}
+
+.footer-dark{
+    background: #232931;
+    color: #fff;
+}
+
